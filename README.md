@@ -8,8 +8,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently studying cross platform application development
-- 🌱 I’m currently doing an internship in a company
+- 🔭 Looking for new opportunities for work
+- 🌱 I’m currently working on my on proyects
 - 👯 High level of English
 - ⚡ Love to learn new technologies
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A1ez-anguita-1585b2260/)
