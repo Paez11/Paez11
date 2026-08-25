@@ -1,4 +1,4 @@
-# Hi there 👋, I´m Víctor Páez Anguita
+# Hi there, I'm Víctor Páez Anguita
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -6,40 +6,110 @@
 
 ---
 
-### :man_technologist: About Me :
+## 👨‍💻 About Me
 
-- 🔭 Looking for new opportunities for work
-- 🌱 I’m currently working on my on proyects
-- 👯 High level of English
-- ⚡ Love to learn new technologies
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A1ez-anguita-1585b2260/)
+I'm a software developer interested in **backend development, Big Data, Artificial Intelligence and game development**.
+
+- 🔭 Currently looking for new opportunities as a developer
+- 🎓 Specialized in **Big Data & AI**, working with data engineering and machine learning technologies
+- 💻 Experience with **Java, C#, Python, TypeScript, Angular, .NET and Spring Boot**
+- 📊 Working with **Apache Spark, Kafka, Hadoop/HDFS and PySpark**
+- 🤖 Experience with **scikit-learn, TensorFlow, Pandas and machine learning workflows**
+- 🎮 Interested in game development with **Unity**
+- 🌱 Always learning and experimenting with new technologies
+- 🇬🇧 High level of English
+- 🇯🇵 Currently learning Japanese
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🚀 Featured Projects
+
+### ☄️ AsteroidTracking
+
+A Big Data project focused on processing and monitoring asteroid data.
+
+**Technologies:**
+`Python` `Apache Kafka` `Apache Spark` `HDFS` `PySpark` `Prometheus` `Grafana`
+
+The project includes data generation and ingestion pipelines, Spark Streaming processing, distributed storage with HDFS and monitoring/visualization through Grafana.
+
+---
+
+### 🥖 Panader-IA
+
+An AI/computer-vision project combining software development with Arduino hardware.
+
+**Technologies:**
+`Python` `Computer Vision` `Arduino` `Machine Learning`
+
+---
+
+### 🎮 Empire2D
+
+A 2D game development project created with Unity.
+
+**Technologies:**
+`C#` `Unity`
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40"height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
+
+### Backend & Web
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</div>
+
+### Big Data & AI
+
+`Apache Spark` `PySpark` `Apache Kafka` `Hadoop` `HDFS` `Hive` `Kafka Connect`  
+`Pandas` `scikit-learn` `TensorFlow` `PCA` `KNN` `Random Forest` `Gradient Boosting`
+
+### Databases & Infrastructure
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+### Development Tools
+
+`VS Code` `IntelliJ IDEA` `Git` `Docker` `Unity` `Photoshop`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paez11&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paez11&layout=compact&theme=vision-friendly-dark)
+
 </div>
 
 ---
 
-### 🧮 My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paez11&show_icons=true&theme=radical)
+## 📫 Contact
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paez11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A1ez-anguita-1585b226/)
+- [GitHub](https://github.com/Paez11)
