@@ -101,9 +101,7 @@ A 2D game development project created with Unity.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paez11&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paez11&layout=compact&theme=vision-friendly-dark)
+[![wakatime](https://wakatime.com/badge/user/TU_ID.svg)](https://wakatime.com/)
 
 </div>
 
