@@ -109,5 +109,5 @@ A 2D game development project created with Unity.
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A1ez-anguita-1585b226/)
+- [LinkedIn](www.linkedin.com/in/víctor-páez-anguita-1585b2260)
 - [GitHub](https://github.com/Paez11)
